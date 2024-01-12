@@ -2,7 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Generative Strategy'
 
-theme = "hugo-universal-theme"
+theme = "hugo-theme"
 #themesDir = "../.."
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
