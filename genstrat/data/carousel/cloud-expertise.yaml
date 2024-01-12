@@ -1,0 +1,9 @@
+weight: 2
+title: "Expertise in Advanced AI Technologies"
+description: >
+  <ul class="list-style-none">
+    <li>From AWS and Google Cloud to Open AI Platforms, we provide tailored solutions that drive innovation and efficiency.</li>
+  </ul>
+# image: "img/carousel/cloud-expertise.png"
+image: ""
+href: "/contact"
