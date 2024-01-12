@@ -4,6 +4,5 @@ description: >
   <ul class="list-style-none">
     <li>Partner with Generative Strategy to unlock the full potential of Generative AI for your business.</li>
   </ul>
-# image: "img/carousel/intro.png"
-image: ""
+image: "img/carousel/intro.png"
 href: "/contact"

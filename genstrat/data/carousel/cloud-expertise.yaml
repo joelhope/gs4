@@ -4,6 +4,5 @@ description: >
   <ul class="list-style-none">
     <li>From AWS and Google Cloud to Open AI Platforms, we provide tailored solutions that drive innovation and efficiency.</li>
   </ul>
-# image: "img/carousel/cloud-expertise.png"
-image: ""
+image: "img/carousel/cloud-expertise.png"
 href: "/contact"
