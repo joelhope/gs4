@@ -57,7 +57,7 @@ jobs:
         #  hugo \
         #    --minify \
         #    --baseURL "${{ steps.pages.outputs.base_url }}/"
-        run: hugo -v
+        run: hugo --logLevel info
         working-directory: ./genstrat
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
