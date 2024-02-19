@@ -14,11 +14,11 @@ cd .\gs4\genstrat\
 hugo server -D -v --disableFastRender
 
 hugo new content <category>/<title>.md 
-projects/
-insights/
 
 
 ```
 
-Link to github:
+Link to github: https://github.com/joelhope/gs4
+
+
 
