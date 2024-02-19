@@ -59,6 +59,8 @@ jobs:
         #    --baseURL "${{ steps.pages.outputs.base_url }}/"
         run: hugo --logLevel info -d public
         working-directory: ./genstrat
+      - name: List build output
+        run: ls -l path/to/expected/output
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
