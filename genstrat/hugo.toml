@@ -1,6 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Generative Strategy'
+publishDir = "./public"
 
 theme = "hugo-theme"
 #themesDir = "../.."
