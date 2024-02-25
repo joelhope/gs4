@@ -22,3 +22,6 @@ Link to github: https://github.com/joelhope/gs4
 
 
 
+Next Steps: 
+- Get gitlab pipeline to deploy to generativestrategy.com
+- Plug in chat functionality
